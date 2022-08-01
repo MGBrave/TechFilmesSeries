@@ -14,8 +14,8 @@
 |[Ela](https://www.youtube.com/watch?v=2N6H9jFvMXY) | 2013 | Spike Jonze|Um homem solitário compra um sistema operacional altamente complexo para lhe fazer companhia. A história começa a se complicar quando ele começa a desenvolver uma relação romântica com a interface. o filme traz repertório e reflexões ricas sobre o impacto da inteligência artificial sobre o que é humano|
 |[Matrix](https://www.youtube.com/watch?v=HYY10xZoXmI)|1999|Andy Wachowski e Lana Wachowski | Um homem recrutado por um grupo de rebeldes contra a dominação das máquinas. Ao sair da "matrix", ele descobre que vivia, até então sem saber, numa realidade assustadora.Traz discussões  interessantes, às vezes até filosóficas, sobre o conceito de realidade simulada|
 |[Matrix Reloaded](https://mmfilmeshd.online/filmes/1090-matrix-reloaded.html)|2003|Andy Wachowski e Lana Wachowski ||
-|Matrix Revolutions|1999|Andy Wachowski e Lana Wachowski ||
-|Matrix Ressurections| 2021|||
+|[Matrix Revolutions](https://mmfilmeshd.online/filmes/1043-matrix-revolutions.html)|1999|Andy Wachowski e Lana Wachowski ||
+|[Matrix Ressurections](https://www.mmfilmeshd.io/?s=Matrix%3A+Resurrections#)| 2021|Lana Wachowski||
 |Particle Fever|2013|Mark Levinson| Mostra as expectativas dos cientistas em torno do lançamento do LHC (large Hadron Collider), o maior acelerador de partículas do mundo|
 |Privacidade Hackeada||||
 |Steve Jobs|||
