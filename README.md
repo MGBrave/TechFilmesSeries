@@ -1,2 +1,2 @@
 # TechFilmesSeries
-lista de filmes, séries, desenhos sobre tecnologia
+lista de filmes, séries e animações sobre tecnologia
