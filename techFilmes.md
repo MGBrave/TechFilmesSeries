@@ -16,9 +16,9 @@
 |[Matrix Reloaded](https://mmfilmeshd.online/filmes/1090-matrix-reloaded.html)|2003|Andy Wachowski e Lana Wachowski ||
 |[Matrix Revolutions](https://mmfilmeshd.online/filmes/1043-matrix-revolutions.html)|1999|Andy Wachowski e Lana Wachowski ||
 |[Matrix Ressurections](https://www.mmfilmeshd.io/?s=Matrix%3A+Resurrections#)| 2021|Lana Wachowski||
-|Particle Fever|2013|Mark Levinson| Mostra as expectativas dos cientistas em torno do lançamento do LHC (large Hadron Collider), o maior acelerador de partículas do mundo|
-|Privacidade Hackeada||||
-|Steve Jobs|||
+|[Particle Fever](https://www.youtube.com/watch?v=5Lx109jdGCc)|2013|Mark Levinson| Mostra as expectativas dos cientistas em torno do lançamento do LHC (large Hadron Collider), o maior acelerador de partículas do mundo|
+|[Privacidade Hackeada](https://www.netflix.com/br/title/80117542)|2019| Karim Amer e Jehane Noujaim | Privacidade Hackeada expõe o perigoso mundo da exploração de dados através de histórias reais de diferentes lados do escândalo Cambridge|
+|[Steve Jobs](https://www.youtube.com/watch?v=s4pVFLUlx8g)|2015|Danny Boyle| Documentário sobre a vida do fundador da Apple|
 |Tron: Uma odisséia eletrônica|1982 | Joseph Kosinski||
 |Tron: Legacy |2010 | Joseph Kosinski|o longa conta a história de um jovem que procura reencontrar seu pai, o criador de um mundo de realidade virtual, e acaba sendo transportado para esse espaço alternativo.|
 |Uma Odisséia no Espaço| 1968| Stanley Kubrick |Baseado na obra de Arthur C. Clark, a obra-prima de Stanley Kubrick tem início quando cientistas encontram um objeto misterioso enterrado sob a superfície da Lua. Com a ajuda do computador H.A.L. 9000, começa a exploração espacial pelo significado do estranho artefato.Os temas do filme vão da inteligência artificial ao modo de vida dos ancestrais do homem.|
