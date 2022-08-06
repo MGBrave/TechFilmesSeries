@@ -1,3 +1,8 @@
+# Tech Séries
+
+<br>
+
+<br>[🔙 Voltar ao Índice](./README.md)<br>
 
 |Nome da Serie|Ano|Diretor||
 |---|---|---|---|
