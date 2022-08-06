@@ -1,5 +1,5 @@
-<br>[🔙 Voltar ao início](../README.md)<br>
-
+<br>[🔙 Voltar ao início](./README.md)<br>
+<!--<b>[🔝 Voltar ao índice](#-índice)</b>-->
 | Nome do Filme |Ano Lançamento|Diretor||
 |:---|:---:|---|:---|
 |Ameaça Virtual(Antitrust)|2001|Peter Howitt|Nos anos 90, a Microsoft foi acusada de ser um criar um grande monopólio com base em ideias de pequenas empresas e programadores. O processo chegou ao fim em 2011 depois de quase 13 anos correndo na justiça. A história que deu origem a esta grande batalha judicial é contada em Ameaça Virtual|
