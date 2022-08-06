@@ -1,8 +1,8 @@
 # Filmes Séries Animações Documentários
-## relacionados a Tecnologia
+## relacionados a Tecnologia.
+
 <br>
 
-lista de filmes, séries e animações sobre tecnologia
 
 
 # <br>[Animação](/techanimation.md)<br>
