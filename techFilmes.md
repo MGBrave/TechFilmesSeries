@@ -4,10 +4,10 @@
 <!--<b>[🔝 Voltar ao índice](#-índice)</b>-->
 <br>
 
-|Onde encontrar| Nome do Filme |Ano Lançamento|Diretor||
-|---|:---|:---:|---|:---|
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />|Ameaça Virtual(Antitrust)|2001|Peter Howitt|Nos anos 90, a Microsoft foi acusada de ser um criar um grande monopólio com base em ideias de pequenas empresas e programadores. O processo chegou ao fim em 2011 depois de quase 13 anos correndo na justiça. A história que deu origem a esta grande batalha judicial é contada em Ameaça Virtual|
-||[Amor Artificial](http://www.netflix.com/br/title/81495715)|2022|David Asavanond|Após uma falha no sistema, um programa de inteligência artificial se apaixona por uma mulher e invade o corpo de um homem para tentar conquistá-la.|
+| Nome do Filme |Ano Lançamento|Diretor||Onde|
+|:---:|:---|:---:|---|:---|
+|Ameaça Virtual(Antitrust)|2001|Peter Howitt|Nos anos 90, a Microsoft foi acusada de ser um criar um grande monopólio com base em ideias de pequenas empresas e programadores. O processo chegou ao fim em 2011 depois de quase 13 anos correndo na justiça. A história que deu origem a esta grande batalha judicial é contada em Ameaça Virtual|<img src="https://github.com/martageraldo/TechFilmesSeries/blob/main/netflix-logo.png?raw=true" width="50" />|
+|[Amor Artificial](http://www.netflix.com/br/title/81495715)|2022|David Asavanond|Após uma falha no sistema, um programa de inteligência artificial se apaixona por uma mulher e invade o corpo de um homem para tentar conquistá-la.|
 |[A Rede Social](https://www.youtube.com/watch?v=t_9aD-M5x7w)|2010|David Fincher|O filme retrata a "pré-história" da maior e mais poderosa rede social do mundo: o Facebook. Tudo começa quando o jovem Mark Zuckerberg cria um site para facilitar a comunicação entre os estudantes de Harvard.o filme tem o mérito de mostrar que, quando se pretende empreendr na área, a capacidade de transformação e reinvenção faz toda a diferença.|
 |[A Teoria de Tudo](https://www.youtube.com/watch?v=UL2vJv8d2XQ)|2014|James Marsh|O longa mostra a relação do famoso físico inglês Stephen Hawking com sua ex-mulher, Jane, dos tempos de faculdade até o estágio mais avançado da doença degenerativa que o paralisou.|
 |[Blade Runner: o caçador de androides](https://www.youtube.com/watch?v=iNTbKiINuew)|1982|Ridley Scott|Retrata a vida de um caçador de androides num futuro hipotético em que homens e máquinas começam a se confundir uns com os outros.A história problematiza o que significa ser humano num contexto dominado pela inteligência artificial. |
