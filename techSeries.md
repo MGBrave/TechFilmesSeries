@@ -6,7 +6,7 @@
 
 |Nome da Serie|Ano|Diretor||
 |---|---|---|---|
-|Bill Gates - O código||||
+|Bill Gates - O código|2022| Davis Guggenheim|Faça uma jornada pela mente de Bill Gates e descubra quem o influenciou e quais são as metas que o bilionário ainda pretende alcançar.|
 |Black Mirror| 2011||Série britânica de ficção científica centrada em temas obscuros e satíricos que gera muita reflexão a respeito das consequências imprevistas das novas tecnologias.|
 |Control Z| 2020 | Alejandro Lozano e Bernardo de la Rosa |Um hacker começa a divulgar os segredos dos alunos para toda a escola. Sofia, uma jovem observadora e solitária, quer descobrir quem está por trás disso.|
 |CSI Cyber|2015| Anthony E. Zuiker, Carol Mendelsohn e Ann Donahue| Inspirada no trabalho de Mary Aiken, uma Cyber Psicóloga Irlandesa, a série gira em torno da Agente Especial Avery Ryan (Patricia Arquette), encarregada da Divisão de Crimes Cibernéticos do FBI, em Quântico|
