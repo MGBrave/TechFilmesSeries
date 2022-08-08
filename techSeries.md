@@ -7,7 +7,7 @@
 |Nome da Serie|Ano|Diretor||
 |---|---|---|---|
 |Bill Gates - O código||||
-|Black Mirror|||Série britânica de ficção científica centrada em temas obscuros e satíricos que gera muita reflexão a respeito das consequências imprevistas das novas tecnologias.|
+|Black Mirror| 2011||Série britânica de ficção científica centrada em temas obscuros e satíricos que gera muita reflexão a respeito das consequências imprevistas das novas tecnologias.|
 |Control Z| 2020 | Alejandro Lozano e Bernardo de la Rosa |Um hacker começa a divulgar os segredos dos alunos para toda a escola. Sofia, uma jovem observadora e solitária, quer descobrir quem está por trás disso.|
 |CSI Cyber|2015| Anthony E. Zuiker, Carol Mendelsohn e Ann Donahue| Inspirada no trabalho de Mary Aiken, uma Cyber Psicóloga Irlandesa, a série gira em torno da Agente Especial Avery Ryan (Patricia Arquette), encarregada da Divisão de Crimes Cibernéticos do FBI, em Quântico|
 |Rolo Meu amor|2020|Lee Sang-yeop e Yoon Jong-ho|Uma mulher solitária encontra um amor inesperado ao estabelecer uma ligação com um holograma em forma humana que tem aparência igual à do seu criador.|
