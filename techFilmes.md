@@ -6,8 +6,8 @@
 
 | Nome do Filme |Ano Lançamento|Diretor||Onde|
 |:---:|:---|:---:|---|:---|
-|[Algorithm - the hacker movie](https://www.youtube.com/watch?v=6qpudAhYhpc&list=PLKz4uEJi93WeR38EuYR2hqJKNiU8-8ITD)|2014|
-Mertcan ArslantasJon Schiefer|A freelance computer hacker discovers a mysterious government computer program. He breaks into the program and is thrust into a revolution.||
+|[A caçada Virtual](https://www.youtube.com/watch?v=6qpudAhYhpc&list=PLKz4uEJi93WeR38EuYR2hqJKNiU8-8ITD)|2000| Joe Chappelle|Kevin Mitnick é possivelmente o melhor hacker que existe no mundo. Sempre procurando por mais informações confidenciais, tentando ganhar mais cyber-prêmios a cada dia, ele busca constantemente novas conquistas.|
+|[Algorithm - the hacker movie](https://www.youtube.com/watch?v=6qpudAhYhpc&list=PLKz4uEJi93WeR38EuYR2hqJKNiU8-8ITD)|2014|Mertcan Arslantas e Jon Schiefer|A freelance computer hacker discovers a mysterious government computer program. He breaks into the program and is thrust into a revolution.|
 |Ameaça Virtual(Antitrust)|2001|Peter Howitt|Nos anos 90, a Microsoft foi acusada de ser um criar um grande monopólio com base em ideias de pequenas empresas e programadores. O processo chegou ao fim em 2011 depois de quase 13 anos correndo na justiça. A história que deu origem a esta grande batalha judicial é contada em Ameaça Virtual|<img src="https://github.com/martageraldo/TechFilmesSeries/blob/main/netflix-logo.png?raw=true" width="50" />|
 |[Amor Artificial](http://www.netflix.com/br/title/81495715)|2022|David Asavanond|Após uma falha no sistema, um programa de inteligência artificial se apaixona por uma mulher e invade o corpo de um homem para tentar conquistá-la.|
 |[A Rede Social](https://www.youtube.com/watch?v=t_9aD-M5x7w)|2010|David Fincher|O filme retrata a "pré-história" da maior e mais poderosa rede social do mundo: o Facebook. Tudo começa quando o jovem Mark Zuckerberg cria um site para facilitar a comunicação entre os estudantes de Harvard.o filme tem o mérito de mostrar que, quando se pretende empreendr na área, a capacidade de transformação e reinvenção faz toda a diferença.|
