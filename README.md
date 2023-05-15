@@ -10,5 +10,6 @@
 ## <br>[Documentários](/techDocumentaries.md)<br>
 ## <br>[Filmes](/techFilmes.md)<br>
 ## <br>[Séries](/techSeries.md)<br>
+## <br>[Doramas](/techDoramas.md)<br>
 
 
